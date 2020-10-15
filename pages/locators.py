@@ -16,3 +16,5 @@ class ProductPageLocators():
 	
 	ALLERT_ITEM_ADDED = (By.CSS_SELECTOR, ".alertinner strong")
 	ALLERT_BASKET_TOTAL = (By.CSS_SELECTOR, ".alertinner p strong")
+
+	SUCCESS_MESSAGE = (By.CSS_SELECTOR, ".alert-success") 
