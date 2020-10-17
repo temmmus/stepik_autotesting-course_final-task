@@ -4,6 +4,7 @@ from pages.base_page import BasePage
 from pages.basket_page import BasketPage
 import time
 
+
 link = "http://selenium1py.pythonanywhere.com/"
 
 @pytest.mark.login_guest
